@@ -1,5 +1,5 @@
 # Responsive Movie Admin Dashboard
-## [Live Preview](https://youtu.be/2n5FD2wLvwA)
+## [Live Preview](https://codinggujaratweb.github.io/Create-Responsive-Movie-Dashboard)
 ### Responsive Movie Admin Dashboard
 
 - Responsive Movie Admin Dashboard Using HTML CSS And JavaScript
